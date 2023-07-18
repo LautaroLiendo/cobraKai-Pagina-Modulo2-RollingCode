@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+body {
+    background-image: url(/images/templo.jpg);
+}
+
+.colorfondo {
+    background-color: #f3f3f328;
+}
+.colorfooter
+{
+    background-color: rgb(187, 187, 187);
+}
+
+.textfooter{
+    color: #EEE229;
+  }
+  
+  .iconos
+  {
+    width: 40px;
+  }
+  .iconos2{
+    width: 1rem;
+  }
